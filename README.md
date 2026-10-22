@@ -39,6 +39,8 @@
 
 详见 [建模与绘图规范](c-code-design-doc/references/diagram-guide.md)、[专业工程图视觉规范](c-code-design-doc/references/visual-style.md)。
 
+2026-10-22 已对照 UML 2.5.1 与 4+1 原始论文复核：补强运行时角色与源码文件的区分、状态赋值表示、自定义图例和跨视图对应，重新渲染并查看七类样例。范围与限制见 [图示审查报告](docs/图示审查报告.md)。
+
 ## 样式预览
 
 下图使用虚构模块，仅演示建模与视觉风格。正式学习文档保留 PlantUML 代码；这里附图片便于在 GitHub 查看。
